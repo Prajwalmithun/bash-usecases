@@ -12,6 +12,8 @@ Repository for bash scripting use cases
     Password = riya123
 ```		
 
+Solution : [1-usermanagement.sh](UC-1-UserManagement/1-usermanagement.sh)
+
 
 # 2. File Management Script:
 * Create a script to automate file management tasks.
@@ -27,4 +29,5 @@ Repository for bash scripting use cases
     File permission of “file-UC2.txt” = 740
 ```
 
+Solution : [2-filemanagement.sh](UC-2-FileManagement/2-filemanagement.sh)
 
